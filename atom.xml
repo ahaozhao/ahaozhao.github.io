@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿豪的知识小屋🛖</title>
+  <icon>https://ahaozhao.github.io/icon.png</icon>
+  <subtitle>面朝大海, 春暖花开</subtitle>
+  <link href="https://ahaozhao.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://ahaozhao.github.io/"/>
+  <updated>2023-04-14T08:23:57.095Z</updated>
+  <id>https://ahaozhao.github.io/</id>
+  
+  <author>
+    <name>阿豪</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>笔记测试</title>
+    <link href="https://ahaozhao.github.io/2023/04/10/%E7%AC%94%E8%AE%B0%E6%B5%8B%E8%AF%95/"/>
+    <id>https://ahaozhao.github.io/2023/04/10/%E7%AC%94%E8%AE%B0%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-04-10T06:33:54.000Z</published>
+    <updated>2023-04-14T08:23:57.095Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;这是一篇博客的尝试&quot;&gt;&lt;a href=&quot;#这是一篇博客的尝试&quot; class=&quot;headerlink&quot; title=&quot;这是一篇博客的尝试&quot;&gt;&lt;/a&gt;这是一篇博客的尝试&lt;/h2&gt;&lt;h3 id=&quot;代码&quot;&gt;&lt;a href=&quot;#代码&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://ahaozhao.github.io/tags/test/"/>
+    
+    <category term="hello" scheme="https://ahaozhao.github.io/tags/hello/"/>
+    
+  </entry>
+  
+</feed>
